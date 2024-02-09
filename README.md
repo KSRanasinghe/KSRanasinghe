@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align='center'>💻 Java Institute for Advanced Technology 💻</p>
+<br>
 
-<!--
-**KSRanasinghe/KSRanasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <li> 📡 Web developer </li>
+<!--   <li> 🔦 Interested in <i>machine learning</i> | <i>web dev.</i> | <i>Mobile app dev.</i> </li> -->
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Languages and Skills ⭐
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,nodejs,java,kotlin,dart,r,octave,php,scala,html,css,tailwind,react,express,redux,materialui,sequelize,flutter,vscode,postman,mysql,postgres,mongodb,git,github,figma" alt="skills logos" /> <br>
+</p>
