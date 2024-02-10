@@ -2,8 +2,7 @@
 <br>
 
 <div>
-  <li> 📡 Web developer </li>
-<!--   <li> 🔦 Interested in <i>machine learning</i> | <i>web dev.</i> | <i>Mobile app dev.</i> </li> -->
+  <li> 📡 Full stack Developer </li>
 </div>
 
 <br>
