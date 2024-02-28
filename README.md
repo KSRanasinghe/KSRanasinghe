@@ -1,6 +1,6 @@
-<p align='center'>💻 Java Institute for Advanced Technology 💻</p>
-<br>
 <p align='center'>🎓 IIC University of Technology 🎓</p>
+<br>
+<p align='center'>💻 Java Institute for Advanced Technology 💻</p>
 <br>
 
 <div>
