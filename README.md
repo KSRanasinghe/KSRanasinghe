@@ -1,7 +1,5 @@
 <p align='center'>🎓 IIC University of Technology 🎓</p>
 <br>
-<p align='center'>💻 Java Institute for Advanced Technology 💻</p>
-<br>
 
 <div>
   <li> 📡 Full stack Developer </li>
