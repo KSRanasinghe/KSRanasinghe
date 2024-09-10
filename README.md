@@ -9,5 +9,5 @@
 
 ### ⭐ Languages and Skills ⭐
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=java,js,php,laravel,cs,py,nodejs,html,css,bootstrap,tailwind,react,mysql,hibernate,firebase,postman,visualstudio,vscode,idea,androidstudio,figma,git,github,gitlab" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=java,js,php,laravel,cs,py,anaconda,nodejs,html,css,bootstrap,tailwind,react,ts,mysql,hibernate,firebase,mongodb,postman,visualstudio,vscode,idea,androidstudio,figma,git,github,gitlab" alt="skills logos" /> <br>
 </p>
