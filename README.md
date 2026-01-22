@@ -11,8 +11,8 @@
 ### 👨‍💻 About Me
 
 - 🚀 Currently a **Web Developer** with **1+ year of professional experience**.
-- 🎓 Undergraduate at **IIC University of Technology**.
-- 🛠️ Specialized in building modern web applications using the **T3 & MERN Stack**.
+- 🎓 **Graduate** of **IIC University of Technology**.
+- 🛠️ Specialized in building modern web applications using **React, Next.js, and Node.js (MERN/Fullstack)**.
 - 🎯 Passionate about clean code and pixel-perfect UI designs.
 
 ---
