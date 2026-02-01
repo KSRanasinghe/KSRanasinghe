@@ -26,11 +26,12 @@
 ---
 
 ### 🏗️ My Portfolio
-<p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon...-45A1FF?style=for-the-badge&logo=react&logoColor=white" />
-</p>
 
-> **Note:** Rebuilding my digital home to showcase my latest 1-year professional journey. Stay tuned! 🚀
+<p align="center">
+  <a href="https://kesharasr.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-Live%20Now-0099ff?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
 
 ---
 
